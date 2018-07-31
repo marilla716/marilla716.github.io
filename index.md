@@ -4,8 +4,8 @@
 - 静岡県中部在住
 
 ###事業内容
-- Androidアプリケーション開発 (Java)  
 - iOSアプリケーション開発 (Swift, Objective-C)  
+- Androidアプリケーション開発 (Kotlin, Java)  
 
 ###アカウント
 - [はてなブログ](http://marilla716.hatenablog.com)  
